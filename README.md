@@ -8,7 +8,7 @@
 
 ### 🛠 Tecnologías que domino  
 - **Lenguajes:** JavaScript, TypeScript  
-- **Front-End:** React.js, Next.js, Tailwind CSS  
+- **Front-End:** React.js, Next.js, Tailwind CSS, React Native
 - **Back-End:** Node.js, Express.js  
 - **Bases de datos:** PostgreSQL, MySQL, MongoDB  
 - **Herramientas:** Git, Postman, ThunderClient  
@@ -32,7 +32,7 @@ Me gradué de los bootcamps de **Henry** y **Digital House**, donde aprendí a c
 📩 Contáctame:  
 - **LinkedIn:** [Lautaro Ondarza](https://www.linkedin.com/in/lautaro-ondarza)  
 - **Email:** lautaro.ondarza@gmail.com  
-
+- **Portfolio:** https://portfolio-23433ac27-londarzas-projects.vercel.app/
 ---
 
 ### 📊 Estadísticas de GitHub  
