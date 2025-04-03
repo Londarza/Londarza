@@ -32,7 +32,7 @@ Me gradué de los bootcamps de **Henry** y **Digital House**, donde aprendí a c
 📩 Contáctame:  
 - **LinkedIn:** [Lautaro Ondarza](https://www.linkedin.com/in/lautaro-ondarza)  
 - **Email:** lautaro.ondarza@gmail.com  
-- **Portfolio:**  [Portfolio en Vercel](https://portfolio-23433ac27-londarzas-projects.vercel.app/)  
+- **Portfolio:**  [Portfolio en Vercel](https://portfolio-mkledh9op-londarzas-projects.vercel.app/)  
 ---
 
 ### 📊 Estadísticas de GitHub  
